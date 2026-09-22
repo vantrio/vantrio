@@ -47,7 +47,3 @@ A través de estos canales puedes seguir mi trabajo o ponerte en contacto conmig
 - ✉️ **Correo:** [tu-email@correo.com](mailto:tu-email@correo.com) *(Reemplaza este enlace)*
 
 ---
-
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" />
-</p>
