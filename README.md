@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 A través de estos canales puedes seguir mi trabajo o ponerte en contacto conmigo:
 
 - 🐙 **GitHub:** [@vantrio](https://github.com)
-- 💼 **LinkedIn:** [Tu Nombre Apellido](https://linkedin.com) *(Reemplaza este enlace)*
-- 🌐 **Portfolio:** [tu-web.com](https://tu-web.com) *(Reemplaza este enlace)*
-- ✉️ **Correo:** [tu-email@correo.com](mailto:tu-email@correo.com) *(Reemplaza este enlace)*
+- 💼 **LinkedIn:** [Victor Antunes](https://linkedin.com)
+- 🌐 **Centro Educativo:** [IES Fuengirola Nº 1: Home](https://www.iesfuengirola1.es/)
+- ✉️ **Correo:** [vantrio@iesfuengirola1.es](mailto:tu-email@correo.com)
 
 ---
