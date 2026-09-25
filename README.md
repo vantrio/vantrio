@@ -56,3 +56,8 @@ A través de estos canales puedes seguir mi trabajo o ponerte en contacto conmig
 - ✉️ **Correo:** [vantrio@iesfuengirola1.es](mailto:tu-email@correo.com)
 
 ---
+
+<div align="center">
+  <!-- Cierre de banner ondulado -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer"/>
+</div>
